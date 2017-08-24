@@ -34,7 +34,7 @@ Grouping by time window:
         -timestamp - timestep with group beginning
         -sum - sum of grouped values from toSumColumn
 
-        GBTW be used as regular table, example:
+        GBTW can be used as regular table, example:
             Query:
             select * from GBTW(refuel , timestampCol, volume, 30) groupedRefuel;
             
