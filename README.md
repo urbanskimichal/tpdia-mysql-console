@@ -8,7 +8,7 @@ Console that adds grouping in time window operation to SQL.
 
 ### Build executable jar
     
-```./gradlew shaddowjar```
+```./gradlew shadowJar```
     
     
 # About
