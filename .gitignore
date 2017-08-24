@@ -1,0 +1,7 @@
+#macosx only
+.DS_Store
+
+.gradle
+gradle
+.idea
+build
